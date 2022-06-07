@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "pm2": "^5.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cluster-approch",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
